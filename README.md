@@ -1,4 +1,79 @@
-# My Leetcode Solutions
-<ul>The solutions uploaded here are my own solutions, they may be an optimal approach, they may be a brute force approach, but the truth is, these all were accepted.</ul>
-<ul>The files are in .java format, but I have just written the function which was required for the question.</ul>
-<ul>For the questions where brute force method is applied, I will upload optimal solutions in the future too.</ul>
+# 📘 LeetCode Solutions – Java
+
+![Java](https://img.shields.io/badge/Language-Java-orange?logo=java)
+![LeetCode](https://img.shields.io/badge/LeetCode-CodeCrusher24-yellow?logo=leetcode)
+
+🔗 **LeetCode Profile:**  
+https://leetcode.com/u/CodeCrusher24/
+
+## 📂 Repository Structure
+
+- Old Solutions/
+  - Problems solved earlier during initial DSA practice
+
+- NeetCode 250/
+  - Arrays & Hashing/
+  - Two Pointers/
+  - Sliding Window/
+  - Stack/
+  - Binary Search/
+  - Linked List/
+  - Trees/
+  - Heap & Priority Queue/
+  - Backtracking/
+  - Tries/
+  - Graphs/
+  - Advanced Graphs/
+  - 1D Dynamic Programming/
+  - 2D Dynamic Programming/
+  - Greedy/
+  - Intervals/
+  - Math & Geometry/
+  - Bit Manipulation/
+
+
+## 🧠 About This Repository
+
+This repository contains my **solutions to LeetCode problems**, written in **Java**, with a focus on:
+
+- Clean logic
+- Optimal time & space complexity
+- Pattern-based problem solving
+- Interview-ready approaches
+
+### Folder Philosophy
+
+- **Old Solutions/**
+  - Problems solved earlier during my DSA journey
+  - Kept for reference and progress tracking
+
+- **NeetCode 250/**
+  - Structured according to the **NeetCode 250 roadmap**
+  - Problems grouped by **core DSA patterns**
+  - Primary focus for current interview preparation
+
+---
+
+## 🚀 Goals
+
+- Strengthen DSA fundamentals
+- Master common problem-solving patterns
+- Maintain a well-organized archive of solutions
+- Prepare effectively for technical interviews
+
+---
+
+## 📈 Progress
+
+- Actively solving problems from **NeetCode 250**
+- Improving pattern recognition and edge-case handling
+- Transitioning from topic-based to interview-style problem solving
+
+---
+
+## 🤝 Connect
+
+- **LeetCode:** https://leetcode.com/u/CodeCrusher24/
+- **GitHub:** https://github.com/CodeCrusher24
+
+⭐ Feel free to star the repository if you find it useful.
