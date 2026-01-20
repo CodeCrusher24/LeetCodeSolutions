@@ -8,9 +8,6 @@ https://leetcode.com/u/CodeCrusher24/
 
 ## 📂 Repository Structure
 
-- Old Solutions/
-  - Problems solved earlier during initial DSA practice
-
 - NeetCode 250/
   - Arrays & Hashing/
   - Two Pointers/
@@ -42,10 +39,6 @@ This repository contains my **solutions to LeetCode problems**, written in **Jav
 - Interview-ready approaches
 
 ### Folder Philosophy
-
-- **Old Solutions/**
-  - Problems solved earlier during my DSA journey
-  - Kept for reference and progress tracking
 
 - **NeetCode 250/**
   - Structured according to the **NeetCode 250 roadmap**
