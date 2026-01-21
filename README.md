@@ -1,7 +1,7 @@
 # 📘 LeetCode Solutions – Java
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?logo=java)
-![LeetCode](https://img.shields.io/badge/LeetCode-CodeCrusher24-yellow?logo=leetcode)
+[![LeetCode](https://img.shields.io/badge/LeetCode-CodeCrusher24-orange?logo=leetcode&logoColor=white)](https://leetcode.com/CodeCrusher24/)
 
 🔗 **LeetCode Profile:**  
 https://leetcode.com/u/CodeCrusher24/
