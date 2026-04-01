@@ -1,72 +1,97 @@
 # 📘 LeetCode Solutions – Java
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?logo=java)
-[![LeetCode](https://img.shields.io/badge/LeetCode-CodeCrusher24-orange?logo=leetcode&logoColor=white)](https://leetcode.com/CodeCrusher24/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-CodeCrusher24-orange?logo=leetcode\&logoColor=white)](https://leetcode.com/CodeCrusher24/)
 
-🔗 **LeetCode Profile:**  
+🔗 **LeetCode Profile:**
 https://leetcode.com/u/CodeCrusher24/
-
-## 📂 Repository Structure
-
-- NeetCode 250/
-  - Arrays & Hashing/
-  - Two Pointers/
-  - Sliding Window/
-  - Stack/
-  - Binary Search/
-  - Linked List/
-  - Trees/
-  - Heap & Priority Queue/
-  - Backtracking/
-  - Tries/
-  - Graphs/
-  - Advanced Graphs/
-  - 1D Dynamic Programming/
-  - 2D Dynamic Programming/
-  - Greedy/
-  - Intervals/
-  - Math & Geometry/
-  - Bit Manipulation/
-
-
-## 🧠 About This Repository
-
-This repository contains my **solutions to LeetCode problems**, written in **Java**, with a focus on:
-
-- Clean logic
-- Optimal time & space complexity
-- Pattern-based problem solving
-- Interview-ready approaches
-
-### Folder Philosophy
-
-- **NeetCode 250/**
-  - Structured according to the **NeetCode 250 roadmap**
-  - Problems grouped by **core DSA patterns**
-  - Primary focus for current interview preparation
 
 ---
 
-## 🚀 Goals
+## 📂 Repository Structure
 
-- Strengthen DSA fundamentals
-- Master common problem-solving patterns
-- Maintain a well-organized archive of solutions
-- Prepare effectively for technical interviews
+```
+LeetCodeSolutions/
+│
+├── NeetCode 250/
+│   ├── Arrays & Hashing/
+│   ├── Two Pointers/
+│   ├── Binary Search/
+│   ├── Linked List/
+│   ├── Bit Manipulation/
+│   ├── Math & Geometry/
+│   └── ...
+│
+├── Striver A2Z/
+│   ├── Basics/
+│   ├── Arrays/
+│   ├── Binary Search/
+│   └── ...
+│
+└── README.md
+```
+
+---
+
+## 🧠 About This Repository
+
+This repository contains my **Java solutions to Data Structures & Algorithms problems** from:
+
+* 📌 **NeetCode 250 Roadmap**
+* 📌 **Striver A2Z DSA Sheet**
+
+The goal is to **combine structured learning + pattern recognition** by solving problems from both sheets simultaneously.
+
+---
+
+## ⚡ Approach
+
+* 🧩 Focus on **patterns over memorization**
+* 🧼 Write **clean, readable Java code**
+* ⚙️ Optimize for **time & space complexity**
+* 🔁 Practice problems across **multiple sheets for depth**
+
+---
+
+## 📁 Folder Philosophy
+
+### 🚀 NeetCode 250
+
+* Pattern-based learning (Arrays, Graphs, DP, etc.)
+* Designed for **interview preparation**
+* Helps in recognizing **problem-solving patterns quickly**
+
+### 📘 Striver A2Z Sheet
+
+* Step-by-step **DSA mastery roadmap**
+* Covers fundamentals → advanced topics
+* Reinforces concepts with **progressive difficulty**
+
+---
+
+## 🎯 Goals
+
+* Build strong **DSA fundamentals**
+* Master **core interview patterns**
+* Solve problems consistently from **both sheets**
+* Become confident in **coding interviews**
 
 ---
 
 ## 📈 Progress
 
-- Actively solving problems from **NeetCode 250**
-- Improving pattern recognition and edge-case handling
-- Transitioning from topic-based to interview-style problem solving
+* ✅ Actively solving **NeetCode 250**
+* ✅ Following **Striver A2Z Sheet**
+* 🔄 Improving consistency & problem-solving speed
+* 🧠 Strengthening pattern recognition across topics
 
 ---
 
 ## 🤝 Connect
 
-- **LeetCode:** https://leetcode.com/u/CodeCrusher24/
-- **GitHub:** https://github.com/CodeCrusher24
+* **LeetCode:** https://leetcode.com/u/CodeCrusher24/
+* **GitHub:** https://github.com/CodeCrusher24
 
-⭐ Feel free to star the repository if you find it useful.
+---
+
+⭐ If you find this repository helpful, feel free to star it!
